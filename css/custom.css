@@ -1,0 +1,16 @@
+a > i {
+  color: #222;
+  padding-right: 10px;
+}
+
+:any-link {
+  text-decoration:  none;
+}
+
+body {
+    /*background-image: url("../images/final-sm.png");*/
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+}
